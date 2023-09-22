@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="BRYAN.HT2_2017009451"
+  DTS:DTSID="{19262E97-AAA9-4BA7-9391-315C3B05BC7D}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=BRYAN;Initial Catalog=HT2_201700945;Integrated Security=True;Application Name=SSIS-HojaT2-{19262E97-AAA9-4BA7-9391-315C3B05BC7D}BRYAN.HT2_2017009451;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
